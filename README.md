@@ -1,7 +1,7 @@
 # Hi, I'm Ky.zar 👋
 ### Full-Stack / SaaS Developer | Building Apps in Public
 
-I’m a 17-year-old developer from Egypt, focused on building full-stack apps, SaaS platforms, and dashboards. I love turning ideas into real, live projects that people can use.
+I’m a 17 yo developer from Egypt, focused on building full-stack apps, SaaS platforms, and dashboards. I love turning ideas into real, live projects that people can use.
 
 ---
 
@@ -23,7 +23,8 @@ I’m currently on a **“Build an App a Day” challenge** to sharpen my skills
 
 ## 🌐 Connect with Me
 - [Instagram](#) – Follow my build-in-public journey.
-- [TikTok](#) – You can see too there.
+- [TikTok](#) – You can see it there too.
+
 ---
 
 ## ⚡ Fun Fact
@@ -37,4 +38,3 @@ Feel free to reach out and let us have the opportunity to build something togeth
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
