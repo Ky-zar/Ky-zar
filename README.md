@@ -23,8 +23,8 @@ I’m currently on a **“Build an App a Day” challenge** to sharpen my skills
 ---
 
 ## 🌐 Connect with Me
-- [Instagram](#) – Follow my build-in-public journey.
-- [TikTok](#) – You can see it there too.
+- [Instagram](https://www.instagram.com/truekyzar?igsh=MW1kZ2NsdnFvMDI3Zw==) – Follow my build-in-public journey.
+- [TikTok](http://tiktok.com/@truekyzar) – You can see it there too.
 
 ---
 
