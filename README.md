@@ -14,7 +14,8 @@ I’m a 17 yo developer from Egypt, focused on building full-stack apps, SaaS pl
 I’m currently on a **“Build an App a Day” challenge** to sharpen my skills and expand my portfolio. Here are some projects I’ve already completed:  
 
 - **Invoice SaaS Platform** – Manage clients, invoices, and payments. [Live Demo](https://quickbill-flax.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/quickbill)  
-- **Gym Management System** – Dashboard for trainers, members, and classes. [Live Demo](https://flex-fit-navy.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/FlexFit)  
+- **Gym Management System** – Dashboard for trainers, members, and classes. [Live Demo](https://flex-fit-navy.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/FlexFit)
+- Sheetifier – Instantly turn Excel/CSV spreadsheets into styled, printable PDFs. [Live Demo](https://sheetifier.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/sheetifier)
 
 
 *(More projects coming daily!)*
