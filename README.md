@@ -5,11 +5,8 @@ I’m a 17-year-old developer from Egypt, focused on **building full-stack apps,
 
 ---
 
-## 🛠 Skills & Tools
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Backend & Databases:** Firebase (Auth, Firestore, Realtime DB, Storage), Node.js (basics)  
-- **Deployment:** Vercel, Netlify, Firebase Hosting  
-- **Other Tools:** Firebase Studio AI, Git & GitHub, APIs integration  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -39,3 +36,7 @@ Even though I use modern tools and AI-assisted workflows, I **always review, tes
 ### 💡 Let’s Build Something!
 I’m open to **freelance projects, collaborations, or mentorship** opportunities. Feel free to reach out!..
 -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
