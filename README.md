@@ -17,6 +17,7 @@ I’m currently on a **“Build an App a Day” challenge** to sharpen my skills
 - **Gym Management System** – Dashboard for trainers, members, and classes. [Live Demo](https://flex-fit-navy.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/FlexFit)
 - **Sheetifier** – Instantly turn Excel/CSV spreadsheets into styled, printable PDFs. [Live Demo](https://sheetifier.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/sheetifier)
 - **Mood Journal App** – Track your daily emotions, reflect with insights, and build healthier habits. [Live Demo](https://mood-bloom-eight.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/mood-bloom)
+- **TaskEcho** – Voice-powered To-Do list with Firebase sync and speech-to-text. [Live Demo](https://taskecho-ten.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/taskecho)
 
 
 *(More projects coming daily!)*
