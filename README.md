@@ -15,7 +15,7 @@ I’m currently on a **“Build an App a Day” challenge** to sharpen my skills
 
 - **Invoice SaaS Platform** – Manage clients, invoices, and payments. [Live Demo](https://quickbill-flax.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/quickbill)  
 - **Gym Management System** – Dashboard for trainers, members, and classes. [Live Demo](https://flex-fit-navy.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/FlexFit)
-- Sheetifier – Instantly turn Excel/CSV spreadsheets into styled, printable PDFs. [Live Demo](https://sheetifier.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/sheetifier)
+- **Sheetifier** – Instantly turn Excel/CSV spreadsheets into styled, printable PDFs. [Live Demo](https://sheetifier.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/sheetifier)
 - **Mood Journal App** – Track your daily emotions, reflect with insights, and build healthier habits. [Live Demo](https://mood-bloom-eight.vercel.app/) | [GitHub Repo](https://github.com/Ky-zar/mood-bloom)
 
 
